@@ -1,0 +1,5 @@
+es\configuration\ESConnection.class
+es\configuration\Test.class
+es\operations\ESOperation.class
+es\operations\ESService.class
+es\configuration\ESRequestBuilder.class
